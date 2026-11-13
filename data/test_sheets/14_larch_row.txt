@@ -1,0 +1,9 @@
+Test results — 14 Larch Row, London W8 4QX (sample data)
+Engineer: J. Doe    Date: 20/10/2026    Instrument: MFT-1
+
+circuit | description | device | r1_r2 | insulation | zs | rcd_ms | polarity
+C1 | Lighting ground floor | B6 | 0.62 | >200 | 0.91 | 22ms | OK
+C2 | Lighting first floor | b 6 | 0.71Ω | >200 | 1.02 | 24 ms | ✓
+C3 | Ring final kitchen | 32A type B | 0.18 | 150 | 0.48 | 19 | ok
+C4 | Cooker | B32 | 0.09 | >200 | 0.39 | n/a | OK
+C5 | Immersion heater | B16 | 0.31 | 95 | 0.66 | 21ms | OK

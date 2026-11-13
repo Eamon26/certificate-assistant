@@ -1,0 +1,9 @@
+Test results — Flat 3, 77 Quill Street, London W11 2PL (sample data)
+Engineer: A. Smith    Date: 20/10/2026
+
+circuit | description | device | r1_r2 | insulation | zs | rcd_ms | polarity
+C1 | Lighting | B6 | 0.85 | >200 | 1.20 | 26ms | OK
+C2 | Ring final sockets | B32 | 0.52 | 0.6 | 1.62 | 31 | OK
+C3 | Shower | B40 | 0.12 | >200 | 0.55 | 340ms | ok
+C4 | Kitchen radial | C16 | 0.40 | >200 | 0.95 |  | x
+C5 | Outside socket | D20 | 0.66 | 180 | 0.90 | 25 | OK
